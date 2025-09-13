@@ -97,12 +97,6 @@ When ordering, please include:
 
 ---
 
-## 🖼️ My Work / Portfolio
-
-Here are some examples of my Roblox builds:
-
-![Number 1](https://imgur.com/a/3Axm8g4)
-
 <div align="center">
 
 ### 📜 Notes  
