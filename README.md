@@ -5,7 +5,6 @@
 ![Status](https://img.shields.io/badge/commissions-open-brightgreen?style=for-the-badge)  
 ![Roblox](https://img.shields.io/badge/Roblox-Studio-red?style=for-the-badge&logo=roblox)  
 ![Payment](https://img.shields.io/badge/Payment-Robux-green?style=for-the-badge&logo=roblox)  
-![Payment](https://img.shields.io/badge/Payment-PayPal-blue?style=for-the-badge&logo=paypal)  
 
 **Custom maps, buildings, and terrain for your Roblox games.**  
 
