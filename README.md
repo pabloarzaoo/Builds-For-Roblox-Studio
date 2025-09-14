@@ -37,8 +37,8 @@ Great for **obbies**, **shops**, or **detailed sets**.
 | Example | Starting Price |
 |---------|----------------|
 | Detailed house / shop | 250R+ |
-| Multiple decorated rooms | 300R+ |
-| Small base / street area | 350R+ |
+| Multiple decorated rooms | 500R+ |
+| Small base / street area | 550R+ |
 
 ---
 
@@ -47,8 +47,8 @@ Perfect for **showcases**, **game lobbies**, or **bigger structures**.
 
 | Example | Starting Price |
 |---------|----------------|
-| Large building (school, arena, mall) | 500R+ |
-| Medium-sized map (obby, RP zone) | 700R+ |
+| Large building (school, arena, mall) | 800R+ |
+| Medium-sized map (obby, RP zone) | 1000R+ |
 | Showcase environment | 1000R+ |
 
 ---
